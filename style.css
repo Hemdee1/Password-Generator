@@ -91,3 +91,7 @@ header button:hover {
   transform: scale(1.03);
   background: rgba(0, 0, 0, 0.4);
 }
+
+p.note {
+  margin-top: 1rem;
+}
