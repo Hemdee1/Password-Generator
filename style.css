@@ -93,5 +93,6 @@ header button:hover {
 }
 
 p.note {
-  margin-top: 1rem;
+  padding: 1rem 2rem;
+  text-align: center;
 }
